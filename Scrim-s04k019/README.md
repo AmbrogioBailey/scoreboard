@@ -1,4 +1,6 @@
 # Getting Started
+
+Updating this just to test out what I learned so i can make sure I get it working.
 Install the dependencies and run the project
 ```
 npm install
